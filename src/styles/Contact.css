@@ -80,3 +80,10 @@ form button {
   cursor: pointer;
 }
 
+@media only screen and (max-width: 650px) {
+  .contact .leftSide {
+  display: none;
+}
+
+}
+
